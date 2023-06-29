@@ -1,0 +1,12 @@
+{
+  "name": "diegolopess-utils",
+  "version": "1.0.0",
+  "description": "Este é um código JavaScript que contém duas funções úteis para formatação de valores monetários e CEPs seguindo o padrão brasileiro. Essas funções permitem formatar os valores de acordo com a convenção do Brasil, tornando-os mais legíveis e adequados para exibição em interfaces de usuário ou outros fins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["real", "brasil", "dinheiro", "money"],
+  "author": "diegolopess",
+  "license": "ISC"
+}
